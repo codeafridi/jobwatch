@@ -52,6 +52,7 @@ func run(args []string, stdout, stderr io.Writer) error {
 		statePath   = fs.String("state", "", "state file (default XDG state dir)")
 		configPath  = fs.String("config", "", "config file (default XDG config dir)")
 		noColor     = fs.Bool("no-color", false, "disable colour")
+		quiet       = fs.Bool("quiet", false, "print nothing when there is nothing new")
 		listSources = fs.Bool("list-sources", false, "print the available sources and exit")
 		showVersion = fs.Bool("version", false, "print the version and exit")
 	)
@@ -157,6 +158,10 @@ func run(args []string, stdout, stderr io.Writer) error {
 	}
 	if *limit > 0 && len(shown) > *limit {
 		shown = shown[:*limit]
+	}
+
+	if *quiet && len(shown) == 0 && len(fetchErrs) == 0 {
+		return nil
 	}
 
 	opts := render.Options{
