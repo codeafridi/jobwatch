@@ -1,0 +1,65 @@
+[
+  {
+    "last_updated": 1795258805,
+    "legal": "API Terms of Service: Please link back (with follow, and without nofollow!) to the URL on Remote OK and mention Remote OK as a source, so we get traffic back from your site. If you do not we'll have to suspend API access.\n\nPlease don't use the Remote OK logo without written permission as it's a registered trademark, please DO use our name Remote OK though."
+  },
+  {
+    "id": "1137914",
+    "position": "Quality Engineer",
+    "company": "Quartermaster",
+    "location": "Arlington",
+    "tags": [
+      "design",
+      "sys admin",
+      "customer support",
+      "testing",
+      "travel",
+      "video",
+      "exec",
+      "ops",
+      "engineer",
+      "digital nomad"
+    ],
+    "date": "2026-11-20T16:00:18+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-quality-engineer-quartermaster-1137914",
+    "salary_min": 0,
+    "salary_max": 0
+  },
+  {
+    "id": "1137913",
+    "position": "Account Director",
+    "company": "Princeton10",
+    "location": "Remote, EST United States",
+    "tags": [
+      "exec",
+      "design",
+      "marketing",
+      "web dev",
+      "travel",
+      "finance",
+      "senior",
+      "ops",
+      "legal",
+      "golang",
+      "medical",
+      "digital nomad"
+    ],
+    "date": "2026-11-20T16:00:11+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-account-director-princeton10-1137913",
+    "salary_min": 0,
+    "salary_max": 0
+  },
+  {
+    "id": "1137912",
+    "position": "Senior Manager, Product Analytics (Growth)",
+    "company": "iFIT",
+    "location": "Worldwide",
+    "tags": [
+      "marketing"
+    ],
+    "date": "2026-11-20T10:40:04+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-product-analytics-growth-ifit-1137912",
+    "salary_min": 0,
+    "salary_max": 0
+  }
+]

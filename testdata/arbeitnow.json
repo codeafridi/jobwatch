@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "slug": "remote-1228-it-service-manager-senior-it-service-manager-germany-183080",
+      "company_name": "Intetics 2",
+      "title": "1228 | IT Service Manager / Senior IT Service Manager",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1228-it-service-manager-senior-it-service-manager-germany-183080",
+      "tags": [
+        "Information Technology and Services",
+        "Remote"
+      ],
+      "job_types": [
+        "Part time"
+      ],
+      "location": "Germany",
+      "created_at": 1795263617
+    },
+    {
+      "slug": "remote-1227-back-end-developer-germany-388586",
+      "company_name": "Intetics 2",
+      "title": "1227 | Back-end Developer",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1227-back-end-developer-germany-388586",
+      "tags": [
+        "Information Technology and Services",
+        "Remote"
+      ],
+      "job_types": [
+        "Part time"
+      ],
+      "location": "Germany",
+      "created_at": 1795263617
+    },
+    {
+      "slug": "remote-1226-front-end-developer-germany-84712",
+      "company_name": "Intetics 2",
+      "title": "1226 | Front-end Developer",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1226-front-end-developer-germany-84712",
+      "tags": [
+        "Information Technology and Services",
+        "Remote"
+      ],
+      "job_types": [
+        "Part time"
+      ],
+      "location": "Germany",
+      "created_at": 1795263617
+    }
+  ]
+}

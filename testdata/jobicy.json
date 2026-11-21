@@ -1,0 +1,58 @@
+{
+  "jobs": [
+    {
+      "id": 163717,
+      "url": "https://jobicy.com/jobs/163717-clx-property-advocate-uk-2",
+      "jobTitle": "CLX Property Advocate, UK",
+      "companyName": "Lemonade",
+      "jobIndustry": [
+        "Customer Support & Success"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "UK",
+      "jobLevel": "Any",
+      "pubDate": "2026-11-21T15:08:56+00:00",
+      "annualSalaryMin": null,
+      "annualSalaryMax": null,
+      "salaryCurrency": null
+    },
+    {
+      "id": 163716,
+      "url": "https://jobicy.com/jobs/163716-senior-full-stack-product-software-engineer-application-platform",
+      "jobTitle": "Senior Full Stack Product Software Engineer, Application Platform",
+      "companyName": "Dropbox",
+      "jobIndustry": [
+        "Software Engineering"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "Poland",
+      "jobLevel": "Director",
+      "pubDate": "2026-11-21T15:08:54+00:00",
+      "annualSalaryMin": null,
+      "annualSalaryMax": null,
+      "salaryCurrency": "PLN"
+    },
+    {
+      "id": 163715,
+      "url": "https://jobicy.com/jobs/163715-enterprise-sales-engineer-france-2",
+      "jobTitle": "Enterprise Sales Engineer - France",
+      "companyName": "Chainguard",
+      "jobIndustry": [
+        "Sales"
+      ],
+      "jobType": [
+        "Full-Time"
+      ],
+      "jobGeo": "France,  UK",
+      "jobLevel": "Senior",
+      "pubDate": "2026-11-21T15:08:38+00:00",
+      "annualSalaryMin": null,
+      "annualSalaryMax": null,
+      "salaryCurrency": null
+    }
+  ]
+}

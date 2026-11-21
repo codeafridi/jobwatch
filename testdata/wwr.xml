@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss">
+  <channel>
+    <title>We Work Remotely: Remote jobs in design, programming, marketing and more</title>
+    <link>https://weworkremotely.com/categories/remote-programming-jobs.rss</link>
+    <description>We Work Remotely: Remote jobs in design, programming, marketing and more</description>
+    <language>en-US</language>
+    <ttl>60</ttl>
+    <item>
+      <media:content url="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" type="image/png"/>
+      <title>A.Team: Senior Independent Software Developer ($90-$170/hr)</title>
+      <region>Anywhere in the World</region>
+      <category>Full-Stack Programming</category>
+      
+      <pubDate>Sun, 16 Jun 2024 17:30:51 +0000</pubDate>
+      <guid>https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</guid>
+      <link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</link>
+    </item>
+<item>
+      <title>MANTECH: Quantum Research Scientist</title>
+      <region>USA Only</region>
+      <category>Full-Stack Programming</category>
+      
+      <pubDate>Tue, 03 Nov 2026 17:00:19 +0000</pubDate>
+      <guid>https://weworkremotely.com/remote-jobs/mantech-quantum-research-scientist</guid>
+      <link>https://weworkremotely.com/remote-jobs/mantech-quantum-research-scientist</link>
+    </item>
+<item>
+      <title>Custom Mechanical Solutions: Quality and Reliability Engineer</title>
+      <region>USA Only</region>
+      <category>Full-Stack Programming</category>
+      
+      <pubDate>Tue, 03 Nov 2026 17:00:16 +0000</pubDate>
+      <guid>https://weworkremotely.com/remote-jobs/custom-mechanical-solutions-quality-and-reliability-engineer</guid>
+      <link>https://weworkremotely.com/remote-jobs/custom-mechanical-solutions-quality-and-reliability-engineer</link>
+    </item>
+  </channel>
+</rss>
